@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-granim": "^1.1.0",
+    "react-particles": "^2.11.0"
+  }
+}
